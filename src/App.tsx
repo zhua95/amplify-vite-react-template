@@ -43,7 +43,6 @@ function App() {
           Review next step of this tutorial.
         </a>
       </div>
-      <button onClick={signOut}>Sign out</button>
     </main>
   );
 }
